@@ -1,11 +1,5 @@
 # Overview
 
-The Habit Tracker Application was developed as part of the:
-
-**Object Oriented and Functional Programming with Python**  
-Bachelor in Artificial Intelligence  
-IU International University of Applied Sciences
-
 The application allows users to:
 
 - Create custom habits
